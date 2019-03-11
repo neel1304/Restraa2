@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "504965744649",
+    "firebase_url": "https://restraa2.firebaseio.com",
+    "project_id": "restraa2",
+    "storage_bucket": "restraa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504965744649:android:bcc4701d53d2d77d",
+        "android_client_info": {
+          "package_name": "in.othelo.restraa2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504965744649-6bceerjpkbuol0tviltsts3nehq3ol0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.othelo.restraa2",
+            "certificate_hash": "6aea21cd309ebd7d13abb28316669446ba9ca03e"
+          }
+        },
+        {
+          "client_id": "504965744649-2d0s8kchpdssdo6dpl5aih845tlue1t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAE15SIs7Kg16DwH0wSizpT2banxLZMEI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504965744649-2d0s8kchpdssdo6dpl5aih845tlue1t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
