@@ -87,7 +87,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void getUserProfile() {
-        // [START get_user_profile]
         FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
         if (user != null) {
             // Name, email address, and profile photo Url
